@@ -1,5 +1,5 @@
 -  Hi 👋, I'm Saanvi BK
--  2nd year B.Tech student at PES University
+-  3rd year B.Tech student at PES University
 -  I am intrested in Web development and exploring new technologies.
 -  Currently, I am focusing on full-stack development and improving my problem-solving skills.
 
