@@ -1,5 +1,5 @@
 -  Hi 👋, I'm Saanvi BK
--  3rd year B.Tech student at PES University
+-  4rd year B.Tech student at PES University
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
